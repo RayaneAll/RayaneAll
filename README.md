@@ -26,8 +26,8 @@ Salut, moi c’est **Rayane Allaoui** !
 ---
 
 ## 📊 Statistiques GitHub :  
-<img src="https://github-readme-stats.vercel.app/api?username=rayaneallaoui&show_icons=true&theme=radical" alt="Statistiques GitHub de Rayane" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneallaoui&layout=compact&theme=radical" alt="Contributions par langage" />  
+<img src="https://github-readme-stats.vercel.app/api?username=rayaneall&show_icons=true&theme=radical" alt="Statistiques GitHub de Rayane" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneall&layout=compact&theme=radical" alt="Contributions par langage" />  
 
 ---
 
