@@ -76,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,bash,sql,mysql,nosql,js,html,css,php,java,git,linux,react,docker,nginx&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,c,bash,mysql,js,html,css,php,java,git,linux,react,docker,nginx&perline=10" />
   </a>
 </p>
 
