@@ -92,11 +92,6 @@
 <a href="mailto:rayane.allaoui03@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="50" width="50" /></a>
 </p>
 
-<!--profile visit count-->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=RayaneAll&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
