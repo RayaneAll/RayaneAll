@@ -1,44 +1,105 @@
-# 🌟 Bienvenue sur mon profil GitHub !  
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Rayane</h1></summary>
+  </ul>
+</div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Cybersecurity, Clean Code & Coffee ☕</h2></summary>
+  </ul>
+</div>
+
+<!--Intro start-->
+- 🔐 Passionate about **Cybersecurity** and critical systems.
+
+- 💻 Currently learning and building projects with **Python, C, Bash, and SQL/NoSQL**.
+
+- 🎓 Pursuing a Bachelor's in **Cybersecurity** at **Holberton School France**.
+
+- 🛠️ I enjoy creating tools that improve system security and automate tasks.
+
+- 📚 Constantly improving through **certifications and personal projects**.
+
+- 💬 Ask me about **networking, data protection, or Linux scripting**.
+
+- 🌍 Based in **Annecy, France**, open to hybrid/remote opportunities.
+
+- 📫 Reach me at **rayane.allaoui03@gmail.com**  
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RayaneAllaoui&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rayane streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RayaneAllaoui&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RayaneAllaoui&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=RayaneAllaoui&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+<!--- trophy (end) -->
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stack ⚙️</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,bash,sql,mysql,nosql,js,html,css,php,java,git,linux,react,docker,nginx&perline=10" />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rayaneallaoui/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:rayane.allaoui03@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="50" width="50" /></a>
+</p>
+
+<!--profile visit count-->
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=RayaneAllaoui&icon=3&color=6)](https://visitcount.itsvg.in)
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 👋 Qui suis-je ?  
-Salut, moi c’est **Rayane Allaoui** !  
-💻 Étudiant en informatique, passionné par le développement logiciel et la cybersécurité.  
-🎓 Actuellement en formation à Holberton School et en programme de certification en cybersécurité.  
-🌍 Basé à Annecy, motivé par l'apprentissage et la contribution à des projets innovants.  
-
----
-
-## 🚀 Ce que je fais :  
-### 🔧 Langages & outils :  
-- **Langages** : C, Python, JavaScript, PHP, HTML, CSS, MySQL  
-- **Outils** : Git, PhpMyAdmin, XAMPP, Bootstrap  
-
-### 🛠️ En cours d'apprentissage :  
-- Concepts avancés de cybersécurité  
-- Développement d’applications Full Stack  
-
-### 🌱 Objectifs :  
-- Perfectionner mes compétences en développement et cybersécurité  
-- Contribuer à des projets technologiques d'impact  
-
----
-
-## 📊 Statistiques GitHub :  
-<img src="https://github-readme-stats.vercel.app/api?username=RayaneAll&show_icons=true&theme=radical" alt="Statistiques GitHub de Rayane" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaneAll&layout=compact&theme=radical" alt="Contributions par langage" />  
-
----
-
-## 🎮 Passions et hobbies :  
-- 🏀 **Sports** : Basket et sports de combat pour la discipline et l'esprit d'équipe.  
-- 🎮 **Jeux vidéo** : Toujours curieux de nouveaux mondes et mécaniques de jeu.  
-- ✈️ **Voyages** : Découvrir de nouvelles cultures et technologies.  
-- 💻 **Informatique** : Explorer, apprendre et construire des solutions logicielles.  
-
----
-
-## 🎯 Me contacter :  
-📧 Email : rayane.allaoui03@gmail.com  
-🔗 LinkedIn : [linkedin.com/in/rayaneallaoui](https://linkedin.com/in/rayaneallaoui)  
+Credit: Adapted by [Rayane Allaoui](https://www.linkedin.com/in/rayaneallaoui/)
