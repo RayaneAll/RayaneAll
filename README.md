@@ -10,7 +10,7 @@
 
 <!--- cybersecurity -->
 <div align="center">
-  <img  src="https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-blue?style=for-the-badge&logo=ibm"
+  <img  src="https://img.shields.io/badge/Linux-Lover-yellow?style=for-the-badge&logo=linux"
        alt="cybersecurity" /></a>
 </div>
 
