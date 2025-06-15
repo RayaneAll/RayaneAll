@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-<!--- snake -->
+<!--- cybersecurity -->
 <div align="center">
   <img  src="https://img.shields.io/badge/Cybersecurity-Enthusiast-orange?style=for-the-badge&logo=hackthebox"
        alt="cybersecurity" /></a>
@@ -61,7 +61,7 @@
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=RayaneAllaoui&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=RayaneAll&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 <!--- trophy (end) -->
