@@ -11,7 +11,7 @@
 <!--- cybersecurity -->
 <div align="center">
   <img  src="https://img.shields.io/badge/Cybersecurity-Enthusiast-orange?style=for-the-badge&logo=hackthebox"
-       alt="cybersecurity" /></a>
+       alt="cybersecurity" /><img src="https://tryhackme-badges.s3.amazonaws.com/rayane.allaoui03.png" alt="Your Image Badge" /></a>
 </div>
 
 <!--h2 without bottom border-->
