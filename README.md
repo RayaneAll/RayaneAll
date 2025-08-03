@@ -8,34 +8,20 @@
   </ul>
 </div>
 
-<!--- cybersecurity -->
-<div align="center">
-  <img  src="https://img.shields.io/badge/Cybersecurity-Enthusiast-orange?style=for-the-badge&logo=hackthebox"
-       alt="cybersecurity" /></a>
-</div>
-
-<!--h2 without bottom border-->
+<!-- Intro -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Cybersecurity, Clean Code & Chill 😎</h2></summary>
+    <summary><h2 style="display: inline-block">Web & Mobile Development, Clean Code & Creativity 🚀</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔐 Passionate about **Cybersecurity** and critical systems.
-
-- 💻 Currently learning and building projects with **Python, C, Bash, and SQL/NoSQL**.
-
-- 🎓 Pursuing a Bachelor's in **Cybersecurity** at **Holberton School France**.
-
-- 🛠️ I enjoy creating tools that improve system security and automate tasks.
-
-- 📚 Constantly improving through **certifications and personal projects**.
-
-- 💬 Ask me about **networking, data protection, or Linux scripting**.
-
-- 🌍 Based in **Annecy, France**, open to hybrid/remote opportunities.
-
+- 💻 Passionate about **Web & Mobile Development** with experience in front-end and back-end technologies.  
+- 🌐 Skilled in **HTML, CSS, JavaScript, PHP, SQL, Java** and familiar with frameworks like **React** and **Spring Boot**.  
+- 📱 Building responsive, user-friendly applications with a focus on performance and accessibility.  
+- 🛠️ Experienced in developing complete projects, from database design to UI integration.  
+- 📚 Always learning and improving through personal projects and collaboration.  
+- 🌍 Based in **Annecy, France**, open to hybrid/remote opportunities.  
 - 📫 Reach me at **rayane.allaoui03@gmail.com**  
 <!--Intro end-->
 
@@ -76,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,bash,mysql,js,html,css,php,java,git,linux,react,docker,nginx&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,react,git,linux,spring,bootstrap,nodejs,figma&perline=7" />
   </a>
 </p>
 
