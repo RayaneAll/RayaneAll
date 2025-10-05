@@ -11,17 +11,17 @@
 <!-- Intro -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Web & Mobile Development, Clean Code & Creativity 🚀</h2></summary>
+    <summary><h2 style="display: inline-block">Junior in Cybersecurity | Python Enthusiast 🔐🚀</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 💻 Passionate about **Web & Mobile Development** with experience in front-end and back-end technologies.  
-- 🌐 Skilled in **HTML, CSS, JavaScript, PHP, SQL, Java** and familiar with frameworks like **React** and **Spring Boot**.  
-- 📱 Building responsive, user-friendly applications with a focus on performance and accessibility.  
-- 🛠️ Experienced in developing complete projects, from database design to UI integration.  
-- 📚 Always learning and improving through personal projects and collaboration.  
-- 🌍 Based in **Annecy, France**, open to hybrid/remote opportunities.  
+- 🔐 Junior in **Cybersecurity**, passionate about securing information systems and continuously learning.  
+- 🐍 Hands-on with **Python** for building educational tools: password strength analyzer, file encryption/decryption, and HTTP log parser.  
+- 🌐 Familiar with **network scanning (TCP)**, basic **C** and **Bash** for system-level tasks, and scripting for automation.  
+- 💻 Background in **Web Development** with experience in **JavaScript, React, Node.js, SQL, Spring Boot** and responsive design.  
+- 📚 Holder of certifications such as **Cybersecurity Fundamentals (IBM)** and **SQL & Relational Databases 101 (IBM)**.  
+- 🌍 Based in **Annecy, France** – open to on-site or hybrid/remote opportunities in **Auvergne-Rhône-Alpes, Île-de-France, France, or Switzerland**.  
 - 📫 Reach me at **rayane.allaoui03@gmail.com**  
 <!--Intro end-->
 
@@ -62,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,react,git,linux,spring,bootstrap,nodejs,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,c,linux,bash,regex,html,css,js,react,nodejs,sql,spring,git,php&perline=7" />
   </a>
 </p>
 
